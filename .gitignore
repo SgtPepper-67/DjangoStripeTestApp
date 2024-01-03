@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# Secret key
+*.secret
+
+# Database
+*.sqlite3
+
+# Static files
+staticfiles/
+
+# Media files
+media/
+
+# Local development settings
+local_settings.py
+
+# Log files
+*.log
+
+# IDE (e.g., PyCharm, VSCode) configuration
+.idea/
+.vscode/
+
+# Compiled Python files
+*.pyc
+
+# Backup files
+*.bak
+*.swp
+
+# Ignore the local database configuration
+db.sqlite3
+
+# Ignore local .env files
+.env
